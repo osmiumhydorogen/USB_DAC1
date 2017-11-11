@@ -1,4 +1,4 @@
-update=2017年10月04日 23時08分02秒
+update=2017年11月11日 18時32分56秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -60,3 +58,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=/home/osmium/kicad/mylib/osmiumlib
+[general]
+version=1
